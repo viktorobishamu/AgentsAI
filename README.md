@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # What is the Live Agent Studio?
 
 The [Live Agent Studio](https://studio.ottomator.ai) is a community-driven platform developed by [oTTomator](https://ottomator.ai) for you to explore cutting-edge AI agents and learn how to implement them for yourself or your business! All agents on this platform are open source and, over time, will cover a very large variety of use cases.
@@ -44,3 +45,7 @@ Head on over to our Think Tank community and feel free to make a post!
 
 &copy; 2024 Live Agent Studio. All rights reserved.  
 Created by oTTomator
+=======
+# AgentsAI
+Agentsoto
+>>>>>>> d7fff35b18c21361a584f0371894c1071bc140dc
